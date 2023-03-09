@@ -1,0 +1,4 @@
+90 Ali
+70 Ahmad
+200 Omar
+12 Khaled
